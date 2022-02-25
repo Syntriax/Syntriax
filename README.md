@@ -41,9 +41,10 @@ Developed many games using Unity and Desktop Applications for Windows since 2012
 <br />
 
 ### Technologies
+[<img align="left" alt="DotNetCore" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;" />](https://syntriax.com/projects)
+
 <img align="left" alt="Git" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-[<img align="left" alt="DotNetCore" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;" />](https://syntriax.com/projects)
 [<img align="left" alt="MySQL" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://syntriax.com/)
 [<img align="left" alt="Laravel" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="padding-right:10px;" />](https://syntriax.com/)
 
