@@ -1,7 +1,7 @@
 # Hello! I'm Syntriax!
 [![Website](https://img.shields.io/website?label=Syntriax.com&style=for-the-badge&url=https%3A%2F%2Fsyntriax.com)](https://syntriax.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Syntriax?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSyntriax&screen_name=Syntriax)
-[![Itch Follow](https://img.shields.io/badge/Itch-%23FF0B34.svg?label=Follow&style=for-the-badge&logo=Itch.io&logoColor=white)](https%3A%2F%2Fsyntriax.itch.io%2F&intent=follow_user)
+[![Itch Follow](https://img.shields.io/badge/Itch-%23FF0B34.svg?label=Follow&style=for-the-badge&logo=Itch.io&logoColor=white)](https://syntriax.itch.io/&intent=follow_user)
 [![DeviantArt](https://img.shields.io/static/v1?style=for-the-badge&message=DeviantArt&color=222222&logo=DeviantArt&logoColor=05CC47&label=Watch)](https://www.deviantart.com/syntriax)
 
 ## I'm a Unity Developer studying Computer Engineering
