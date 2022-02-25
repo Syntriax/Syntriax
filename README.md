@@ -8,8 +8,8 @@ I have interests in game development, storytelling and art in general. I'm mainl
 
 ### Tools
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="SourceTree" width="26px" src="./svg/SourceTree.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Unity" width="26px" src="./svg/Unity.svg" style="padding-right:10px;" />](https://syntriax.com/projects)
+[<img align="left" alt="SourceTree" width="26px" src="https://raw.githubusercontent.com/Syntriax/Syntriax/main/svg/SourceTree.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/Syntriax/Syntriax/main/svg/Unity.svg" style="padding-right:10px;" />](https://syntriax.com/projects)
 [<img align="left" alt="Krita" width="26px" src="https://tr.wikipedia.org/wiki/Krita#/media/Dosya:Calligrakrita-base.svg" style="padding-right:10px;" />](https://www.deviantart.com/syntriax)
 [<img align="left" alt="Blender" width="26px" src="https://commons.wikimedia.org/wiki/File:Logo_Blender.svg#/media/File:Blender_logo_no_text.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Inkscape" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" style="padding-right:10px;" />]
