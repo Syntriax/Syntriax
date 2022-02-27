@@ -8,6 +8,8 @@
 I have interests in Game Development, Storytelling and Art in general. 
 Developed many games using Unity and Desktop Applications for Windows since 2012.
 
+<br />
+
 ### Games Published
 [<img align="left" alt="Launched" width="48px" src="https://syntriax.com/visuals/SymmetricalReality.png" style="padding-right:10px;" />](https://syntriax.com/projects/symmetrical-reality)
 [<img align="left" alt="Launched" width="48px" src="https://syntriax.com/visuals/Launched.png" style="padding-right:10px;" />](https://syntriax.com/projects/launched)
