@@ -5,9 +5,18 @@
 [![DeviantArt](https://img.shields.io/static/v1?style=for-the-badge&message=DeviantArt&color=222222&logo=DeviantArt&logoColor=05CC47&label=Watch)](https://www.deviantart.com/syntriax)
 
 ## I'm a Unity Developer studying Computer Engineering
-I have interests in game development, storytelling and art in general. 
+I have interests in Game Development, Storytelling and Art in general. 
 Developed many games using Unity and Desktop Applications for Windows since 2012.
 
+### Games Published
+[<img align="left" alt="Launched" width="48px" src="https://syntriax.com/visuals/SymmetricalReality.png" style="padding-right:10px;" />](https://syntriax.com/projects/symmetrical-reality)
+[<img align="left" alt="Launched" width="48px" src="https://syntriax.com/visuals/Launched.png" style="padding-right:10px;" />](https://syntriax.com/projects/launched)
+[<img align="left" alt="Launched" width="48px" src="https://syntriax.com/visuals/SpringCleaning.jpg" style="padding-right:10px;" />](https://syntriax.com/projects/springcleaning)
+[<img align="left" alt="Launched" width="48px" src="https://syntriax.com/visuals/Darkube.png" style="padding-right:10px;" />](https://syntriax.com/projects/darkube)
+
+<br />
+<br />
+<br />
 
 ### Tools
 <img align="left" alt="Visual Studio Code" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
