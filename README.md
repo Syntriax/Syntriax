@@ -4,7 +4,7 @@
 [![Itch Follow](https://img.shields.io/badge/Itch-%23FF0B34.svg?label=Follow&style=for-the-badge&logo=Itch.io&logoColor=white)](https://syntriax.itch.io/?intent=follow_user&intent=follow_user)
 [![DeviantArt](https://img.shields.io/static/v1?style=for-the-badge&message=DeviantArt&color=222222&logo=DeviantArt&logoColor=05CC47&label=Watch)](https://www.deviantart.com/syntriax)
 
-## I'm a Unity Developer studying Computer Engineering
+## I'm a Unity Developer with a bachelor in Computer Engineering
 I have interests in Game Development, Storytelling and Art in general. 
 Developed many games using Unity and Desktop Applications for Windows since 2012. I usually put my code that I don't care too much about on Github, most of my codebase is over at my own git server.
 
@@ -49,6 +49,7 @@ Developed many games using Unity and Desktop Applications for Windows since 2012
 [<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />](https://syntriax.com/)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://syntriax.com/)
 [<img align="left" alt="CSS5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://syntriax.com/)
+[<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />](https://syntriax.com/)
 
 <br />
 <br />
@@ -59,6 +60,8 @@ Developed many games using Unity and Desktop Applications for Windows since 2012
 <img align="left" alt="Git" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 [<img align="left" alt="MySQL" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://syntriax.com/)
+[<img align="left" alt="React" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://syntriax.com/)
+[<img align="left" alt="Docker" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" style="padding-right:10px;" />](https://syntriax.com/)
 [<img align="left" alt="Laravel" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="padding-right:10px;" />](https://syntriax.com/)
 
 <br />
