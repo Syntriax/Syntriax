@@ -62,7 +62,6 @@ Developed many games using Unity and Desktop Applications for Windows since 2012
 [<img align="left" alt="MySQL" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://syntriax.com/)
 [<img align="left" alt="React" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://syntriax.com/)
 [<img align="left" alt="Docker" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" style="padding-right:10px;" />](https://syntriax.com/)
-[<img align="left" alt="Laravel" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="padding-right:10px;" />](https://syntriax.com/)
 
 <br />
 <br />
