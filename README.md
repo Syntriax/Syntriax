@@ -66,7 +66,7 @@ Developed many games using Unity and Desktop Applications for Windows since 2012
 <br />
 
 ### External Links
-[<img align="left" alt="Twitter" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" style="padding-right:10px;" />](https://twitter.com/Syntriax)
+[<img align="left" alt="Twitter" width="48px" src="https://raw.githubusercontent.com/Syntriax/Syntriax/main/svg/Twitter.svg" style="padding-right:10px;" />](https://twitter.com/Syntriax)
 [<img align="left" alt="DeviantArt" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/DeviantArt_Logo2.svg" style="padding-right:10px;" />](https://www.deviantart.com/syntriax)
 [<img align="left" alt="Itch" width="48px" src="https://static.itch.io/images/app-icon.svg" style="padding-right:10px;" />](https://syntriax.itch.io/)
 [<img align="left" alt="Steam" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" style="padding-right:10px;" />](https://steamcommunity.com/id/Syntriax)
