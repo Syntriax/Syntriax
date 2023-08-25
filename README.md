@@ -1,6 +1,9 @@
 # Hello! I'm Syntriax!
 [![Website](https://img.shields.io/website?label=Syntriax.com&style=for-the-badge&url=https%3A%2F%2Fsyntriax.com)](https://syntriax.com)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109318904747613216?domain=https%3A%2F%2Fequestria.social&style=for-the-badge&logo=mastodon&color=%233088D4)](https://equestria.social/@Syntriax)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Syntriax?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSyntriax&screen_name=Syntriax)
+
+
 [![Itch Follow](https://img.shields.io/badge/Itch-%23FF0B34.svg?label=Follow&style=for-the-badge&logo=Itch.io&logoColor=white)](https://syntriax.itch.io/?intent=follow_user&intent=follow_user)
 [![DeviantArt](https://img.shields.io/static/v1?style=for-the-badge&message=DeviantArt&color=222222&logo=DeviantArt&logoColor=05CC47&label=Watch)](https://www.deviantart.com/syntriax)
 
