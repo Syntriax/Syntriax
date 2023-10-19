@@ -14,10 +14,10 @@ Developed many games using Unity and Desktop Applications for Windows since 2012
 <br />
 
 ### Games Published
-[<img align="left" alt="Launched" width="48px" src="https://syntriax.com/visuals/SymmetricalReality.png" style="padding-right:10px;" />](https://syntriax.com/projects/symmetrical-reality)
+[<img align="left" alt="SymmetricalReality" width="48px" src="https://syntriax.com/visuals/SymmetricalReality.png" style="padding-right:10px;" />](https://syntriax.com/projects/symmetrical-reality)
 [<img align="left" alt="Launched" width="48px" src="https://syntriax.com/visuals/Launched.png" style="padding-right:10px;" />](https://syntriax.com/projects/launched)
-[<img align="left" alt="Launched" width="48px" src="https://syntriax.com/visuals/SpringCleaning.jpg" style="padding-right:10px;" />](https://syntriax.com/projects/springcleaning)
-[<img align="left" alt="Launched" width="48px" src="https://syntriax.com/visuals/Darkube.png" style="padding-right:10px;" />](https://syntriax.com/projects/darkube)
+[<img align="left" alt="SpringCleaning" width="48px" src="https://syntriax.com/visuals/SpringCleaning.jpg" style="padding-right:10px;" />](https://syntriax.com/projects/springcleaning)
+[<img align="left" alt="Darkube" width="48px" src="https://syntriax.com/visuals/Darkube.png" style="padding-right:10px;" />](https://syntriax.com/projects/darkube)
 
 <br />
 <br />
