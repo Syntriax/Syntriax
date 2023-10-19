@@ -14,10 +14,10 @@ Developed many games using Unity and Desktop Applications for Windows since 2012
 <br />
 
 ### Games Published
-[<img align="left" alt="SymmetricalReality" width="48px" src="https://syntriax.com/visuals/SymmetricalReality.png" style="padding-right:10px;" />](https://syntriax.com/projects/symmetrical-reality)
-[<img align="left" alt="Launched" width="48px" src="https://syntriax.com/visuals/Launched.png" style="padding-right:10px;" />](https://syntriax.com/projects/launched)
-[<img align="left" alt="SpringCleaning" width="48px" src="https://syntriax.com/visuals/SpringCleaning.jpg" style="padding-right:10px;" />](https://syntriax.com/projects/springcleaning)
-[<img align="left" alt="Darkube" width="48px" src="https://syntriax.com/visuals/Darkube.png" style="padding-right:10px;" />](https://syntriax.com/projects/darkube)
+[<img align="left" alt="SymmetricalReality" width="48px" src="https://github.com/Syntriax/Syntriax/assets/33391270/0dd5aeb1-589d-4008-8f1b-b2071858ddce" style="padding-right:10px;" />](https://syntriax.com/projects/symmetrical-reality)
+[<img align="left" alt="Launched" width="48px" src="https://github.com/Syntriax/Syntriax/assets/33391270/5672629b-520e-442d-af4f-5bc9afb6c6ec" style="padding-right:10px;" />](https://syntriax.com/projects/launched)
+[<img align="left" alt="SpringCleaning" width="48px" src="https://github.com/Syntriax/Syntriax/assets/33391270/23534018-fd88-4ad5-967e-217cb1a7fe52" style="padding-right:10px;" />](https://syntriax.com/projects/springcleaning)
+[<img align="left" alt="Darkube" width="48px" src="https://github.com/Syntriax/Syntriax/assets/33391270/9a98d088-6936-43eb-be0c-c0dddfe537ad" style="padding-right:10px;" />](https://syntriax.com/projects/darkube)
 
 <br />
 <br />
