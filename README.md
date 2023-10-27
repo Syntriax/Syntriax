@@ -61,6 +61,7 @@ Developed many games using Unity and Desktop Applications for Windows since 2012
 [<img align="left" alt="DotNetCore" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;" />](https://orch.syntriax.com/)
 [<img align="left" alt="Git" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git.syntriax.com/)
 
+[<img align="left" alt="Sveltekit" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" style="padding-right:10px;" />](https://syntriax.com/)
 [<img align="left" alt="MySQL" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://orch.syntriax.com/)
 [<img align="left" alt="React" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://orch.syntriax.com/)
 [<img align="left" alt="Docker" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" style="padding-right:10px;" />](https://orch.syntriax.com/)
