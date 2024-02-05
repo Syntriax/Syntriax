@@ -28,6 +28,7 @@ Developed many games using Unity and Desktop Applications for Windows since 2012
 <img align="left" alt="Visual Studio Code" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 [<img align="left" alt="Unity" width="48px" src="./svg/Unity.svg" style="padding-right:10px;" />](https://syntriax.com/projects)
+[<img align="left" alt="MonoGame" width="48px" src="./svg/MonoGame.svg" style="padding-right:10px;" />](https://syntriax.com/projects)
 [<img align="left" alt="Krita" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" style="padding-right:10px;" />](https://www.deviantart.com/syntriax)
 
 <img align="left" alt="Blender" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" style="padding-right:10px;" />
