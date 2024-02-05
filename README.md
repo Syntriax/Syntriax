@@ -30,7 +30,6 @@ Developed many games using Unity and Desktop Applications for Windows since 2012
 [<img align="left" alt="Unity" width="48px" src="./svg/Unity.svg" style="padding-right:10px;" />](https://syntriax.com/projects)
 [<img align="left" alt="Krita" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" style="padding-right:10px;" />](https://www.deviantart.com/syntriax)
 
-<img align="left" alt="SourceTree" width="48px" src="./svg/SourceTree.svg" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" style="padding-right:10px;" />
 <img align="left" alt="Inkscape" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Asperite" width="48px" src="https://raw.githubusercontent.com/dominickjohn/aseprite-big-sur-icon/main/AsepriteSurIcon.png" style="padding-right:10px;" />
