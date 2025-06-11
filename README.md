@@ -1,4 +1,4 @@
-# Hello! I'm Syntriax
+# Hello! I'm Syntriax!
 
 [![Website](https://img.shields.io/website?label=Syntriax.com&style=for-the-badge&url=https%3A%2F%2Fsyntriax.com)](https://syntriax.com)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/109318904747613216?domain=equestria.social&style=for-the-badge)](https://equestria.social/@Syntriax)
