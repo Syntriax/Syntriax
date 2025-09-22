@@ -6,10 +6,10 @@
 [![Itch Follow](https://img.shields.io/badge/Itch-%23FF0B34.svg?label=Follow&style=for-the-badge&logo=Itch.io&logoColor=white)](https://syntriax.itch.io/?intent=follow_user&intent=follow_user)
 [![DeviantArt](https://img.shields.io/static/v1?style=for-the-badge&message=DeviantArt&color=222222&logo=DeviantArt&logoColor=05CC47&label=Watch)](https://www.deviantart.com/syntriax)
 
-## I'm a Unity Developer with a bachelor in Computer Engineering
+## I'm a Game Developer with a bachelor in Computer Engineering
 
 I have interests in Game Development, Storytelling and Art in general.
-Developed many games using Unity and Desktop Applications for Windows since 2012. I usually put my code that I don't care too much about on Github, most of my codebase is over at my own git server.
+Developed many games and desktop applications since 2012. I usually put my code that I don't care too much about on Github, most of my codebase is over at my own git server.
 
 <br />
 
