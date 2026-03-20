@@ -1,7 +1,7 @@
-# Hello! I'm Syntriax!
+# Hello! I'm Syntriax
 
 [![Website](https://img.shields.io/website?label=Syntriax.com&style=for-the-badge&url=https%3A%2F%2Fsyntriax.com)](https://syntriax.com)
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/109318904747613216?domain=equestria.social&style=for-the-badge)](https://equestria.social/@Syntriax)
+[![Fediverse Follow](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpleroma.syntriax.com%2Fusers%2FSyntriax%2Ffollowers&query=totalItems&style=for-the-badge&logo=pleroma&label=Follow%20@0Syntriax@syntriax.com&link=https%3A%2F%2Fpleroma.syntriax.com%2Fusers%2FSyntriax)](https://pleroma.syntriax.com/users/Syntriax)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Syntriax?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSyntriax&screen_name=Syntriax)
 [![Itch Follow](https://img.shields.io/badge/Itch-%23FF0B34.svg?label=Follow&style=for-the-badge&logo=Itch.io&logoColor=white)](https://syntriax.itch.io/?intent=follow_user&intent=follow_user)
 [![DeviantArt](https://img.shields.io/static/v1?style=for-the-badge&message=DeviantArt&color=222222&logo=DeviantArt&logoColor=05CC47&label=Watch)](https://www.deviantart.com/syntriax)
@@ -42,19 +42,18 @@ Developed many games and desktop applications since 2012. I usually put my code 
 <br />
 <br />
 
-### Main Programming Languages
+### Main Programming Language
 
 [<img align="left" alt="CSharp" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />](https://syntriax.com/projects)
-[<img align="left" alt="CPlusPlus" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />](https://github.com/Syntriax/Neural-Network)
-[<img align="left" alt="C" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />](https://github.com/Syntriax/SynGame)
 
 <br />
 <br />
 
 ##### Other Languages
 
+[<img align="left" alt="CPlusPlus" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />](https://github.com/Syntriax/Neural-Network)
+[<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />](https://github.com/Syntriax/SynGame)
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://syntriax.com/)
-[<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />](https://syntriax.com/)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://syntriax.com/)
 [<img align="left" alt="CSS5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://syntriax.com/)
 [<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />](https://syntriax.com/)
@@ -76,8 +75,9 @@ Developed many games and desktop applications since 2012. I usually put my code 
 
 ### External Links
 
-[<img align="left" alt="Mastodon" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg/65px-Mastodon_logotype_%28simple%29_new_hue.svg.png" style="padding-right:10px;" />](https://twitter.com/Syntriax)
-[<img align="left" alt="Twitter" width="48px" src="./svg/Twitter.svg" style="padding-right:10px;" />](https://equestria.social/@Syntriax)
+[<img align="left" alt="Fediverse, Mastodon, Pleroma" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_(Simple).svg" style="padding-right:10px;" />](https://pleroma.syntriax.com/users/Syntriax)
+[<img align="left" alt="Matrix" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Matrix_icon.svg" style="padding-right:10px;" />](https://matrix.to/#/@syntriax:syntriax.com)
+[<img align="left" alt="Twitter" width="48px" src="./svg/Twitter.svg" style="padding-right:10px;" />](https://twitter.com/Syntriax)
 [<img align="left" alt="DeviantArt" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/DeviantArt_Logo2.svg" style="padding-right:10px;" />](https://www.deviantart.com/syntriax)
 [<img align="left" alt="Itch" width="48px" src="https://static.itch.io/images/app-icon.svg" style="padding-right:10px;" />](https://syntriax.itch.io/)
 [<img align="left" alt="Steam" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" style="padding-right:10px;" />](https://steamcommunity.com/id/Syntriax)
